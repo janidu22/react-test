@@ -6,7 +6,8 @@ function App() {
     return (
         <>
             <div>
-                Hello
+                <h1>Hello I'm Janidu Yapa</h1>
+                <p>Im a software engineer intern</p>
             </div>
         </>
     )
